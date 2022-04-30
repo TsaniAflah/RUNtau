@@ -29,6 +29,14 @@ Route::get('/news', function () {
     return view('news');
 });
 
+Route::get('/help', function () {
+    return view('help');
+});
+
+Route::get('/runtaufood', function () {
+    return view('runtaufood');
+});
+
 //Melakukan READ
 Route::get('/tampildata', 'ReservasiController@readdata');
 //Melakukan INPUT

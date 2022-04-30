@@ -104,10 +104,10 @@
                         <div class="accordion-body">
                             <center><img src="/img/N4.png" width="600" ;></center>
                             <p align="justify">
-                                "This positive case includes students from 12 faculties. In addition, several lecturers and education staff were also found to have been exposed to Covid-19 in the last two weeks," said USK Banda Aceh Public Relations Coordinator, Ferizal Hasan. Banda Aceh has decided to extend the online lecture period again until March 5, 2022. Previously, based on the development of Covid-19 
+                                "This positive case includes students from 12 faculties. In addition, several lecturers and education staff were also found to have been exposed to Covid-19 in the last two weeks," said USK Banda Aceh Public Relations Coordinator, Ferizal Hasan. Banda Aceh has decided to extend the online lecture period again until March 5, 2022. Previously, based on the development of Covid-19
                                 cases in the campus environment, USK had implemented online lecture activities until February 20, 2022.
                                 <center><img src="/img/N44.pNg" width="400" ;></center>
-                                Lecturers with comorbid diseases were asked not to be assigned to offline classes. Then, practicum/skill lab/laboratory research/similar activities can be carried out offline in a capacity of only 50 percent. "All student activities outside the campus are also not allowed, if they are carried out online," said Ferizal. Not only that, said Ferizal, in order to increase immunity 
+                                Lecturers with comorbid diseases were asked not to be assigned to offline classes. Then, practicum/skill lab/laboratory research/similar activities can be carried out offline in a capacity of only 50 percent. "All student activities outside the campus are also not allowed, if they are carried out online," said Ferizal. Not only that, said Ferizal, in order to increase immunity
                                 and minimize the impact of exposure to Covid-19, the entire academic community, education staff and Students are required to carry out
                                 a booster dose of vaccination. Evidence of booster vaccine injections must be uploaded to the USK staffing information system for lecturers and education staff.
                             </p>
