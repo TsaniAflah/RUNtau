@@ -37,6 +37,23 @@ Route::get('/runtaufood', function () {
     return view('runtaufood');
 });
 
+Route::get('/runtaumoney', function () {
+    return view('runtaumoney');
+});
+
+Route::get('/runtauplace', function () {
+    return view('runtauplace');
+});
+
+Route::get('/runtauhealth', function () {
+    return view('runtauhealth');
+});
+
+Route::get('/runtaustore', function () {
+    return view('runtaustore');
+});
+
+
 //Melakukan READ
 Route::get('/tampildata', 'ReservasiController@readdata');
 //Melakukan INPUT
