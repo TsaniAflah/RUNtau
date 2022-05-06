@@ -81,13 +81,16 @@
                         <div class="accordion-body">
                             <center><img src="/img/N33.jpg" width="600" ;></center>
                             <P align="justify">Minister of Youth and Sports of the Republic of Indonesia, Dr. H. Zainudin Amali, SE., M.Si expressed his wish for Aceh to be included in the grand design of the national sport. He conveyed this in a public lecture at Syiah Kuala University (USK) with the theme 'National Sports Development' at the AAC Dayan Dawood Building. (Banda Aceh, 24/2/2022)
-                                <br>
+                            <p>
                                 "Aceh must be included in the grand design of national sports, I hope it grows from USK," said Zainuddin Amali.
                                 So far, Aceh has not been included in the grand design of the national sport, because it is considered that there are still many things that must be fulfilled. So far, the Ministry of Youth and Sports has determined the center points of national sports development in several regions.
                                 Zainuddin Amali views that sport is actually important for the nation, in order to make Indonesia and the region proud in the eyes of the world.
-                                <img src="/img/N333.png" style="float:left" width="300">There are only two occasions when the flag and the national anthem are turned on, the president's visit and there are sports achievements. Those are two activities that made us famous," said the Minister of Youth and Sports. Therefore, he invited all parties to be diligent in exercising. Not everything has to be in sports
-                                achievements or going to the gym, just wanting to move also counts as sports. However, a bright mind cannot be separated from a healthy body. The Minister of Youth and Sports also invites all parties to change the mindset, seeing that sport is not a fad or a side activity. But tree. So far, he says, no parent has ever asked, are you an athlete? On average, when their child is
-                                proposed, what is the job.
+                                <img src="/img/N333.png" style="float:left" width="300">
+                            <p>There are only two occasions when the flag and the national anthem are turned on, the president's visit and there are sports achievements. Those are two activities that made us famous," said the Minister of Youth and Sports. Therefore, he invited all parties to be diligent in exercising. Not everything has to be in sports
+                                achievements or going to the gym, just wanting to move also counts as sports.
+                            <p>However, a bright mind cannot be separated from a healthy body. The Minister of Youth and Sports also invites all parties to change the mindset, seeing that sport is not a fad or a side activity.
+                            <P>So far, he says, no parent has ever asked, are you an athlete? On average, when their child is
+                               proposed, what is the job.
                             </P>
                         </div>
                     </div>
