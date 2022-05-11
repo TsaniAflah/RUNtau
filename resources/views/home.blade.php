@@ -67,16 +67,16 @@
   <div style="background-image:url(./img/Landing2.png); height:400px; ">
     <img src="/img/Person1.png" style="float:left; padding-left:110px" ; height="400" ;>
     <p style="padding-top: 250px;">
-      <a href="/about" style="padding:7px; text-align:center;" ;>
+      <a href="/register" style="padding:7px; text-align:center;" ;>
         <button style="background-color: white; color:black; padding:5px 15px 5px 15px;"><b>SignUp</b></button>
       </a>
-      <a href="/about" style="padding-left: 10 px; text-align:center;">
+      <a href="/login" style="padding-left: 10 px; text-align:center;">
         <button style="background-color: white; color:black; padding:5px 15px 5px 15px;"><b>Login</b></button>
       </a>
     </p>
   </div>
   @else
-  
+  <img src="/img/Registered.png" alt="">
   @endguest
   </p>
   </p>
