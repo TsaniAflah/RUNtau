@@ -51,7 +51,7 @@
           </li>
         </ul>
         <ul class="navbar-nav ms-auto ">
-          @auth
+          @auth 
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
               {{auth()->user()->firstname}} {{auth()->user()->lastname}}

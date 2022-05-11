@@ -88,12 +88,6 @@
                 @enderror
               </div>
 
-              <div class="checkbox mb-3">
-                
-                  <input class="form-check-input me-2" type="checkbox" name="remember" value="remember" id="remember ">
-                  <label class="form-chel-label text-gray-600" for="flexCheckDefault">Remember me</label> 
-                
-              </div>
 
               <button class="w-100 btn btn-lg btn-primary" type="submit">Login</button>
             </form>
