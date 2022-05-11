@@ -68,7 +68,7 @@
             <br>
             <h1 class="h3 mb-3 fw-normal text-center">Please Login</h1></br>
             <form action="/login" method="post">
-            @csrf
+              @csrf
               <div class="form-floating">
                 <input type="email" name="email" class="form-control @error('email') is-invalid @enderror" id="email" placeholder="name@example.com" required value="{{old('email')}}" autofocus required>
                 <label for="email">Email address</label>
@@ -79,13 +79,20 @@
                 @enderror
               </div>
               <div class="form-floating">
-                <input type="password" name="password" class="form-control @error('password') is-invalid @enderror" id="password" placeholder="Password"required value="{{old('password')}}"  autofocus required>
+                <input type="password" name="password" class="form-control @error('password') is-invalid @enderror" id="password" placeholder="Password" required value="{{old('password')}}" autofocus required>
                 <label for="password">Password</label>
                 @error('password')
                 <div class="invalid-feedback">
                   {{$message}}
                 </div>
                 @enderror
+              </div>
+
+              <div class="checkbox mb-3">
+                
+                  <input class="form-check-input me-2" type="checkbox" name="remember" value="remember" id="remember ">
+                  <label class="form-chel-label text-gray-600" for="flexCheckDefault">Remember me</label> 
+                
               </div>
 
               <button class="w-100 btn btn-lg btn-primary" type="submit">Login</button>
@@ -99,7 +106,7 @@
     <script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
 
   </body>
-
+  </body>
 </html>
 
 
