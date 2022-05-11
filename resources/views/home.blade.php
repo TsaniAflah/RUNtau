@@ -63,6 +63,7 @@
   <!-- end of carousel -->
   <p>
   <p>
+    @guest
   <div style="background-image:url(./img/Landing2.png); height:400px; ">
     <img src="/img/Person1.png" style="float:left; padding-left:110px" ; height="400" ;>
     <p style="padding-top: 250px;">
@@ -74,6 +75,9 @@
       </a>
     </p>
   </div>
+  @else
+  
+  @endguest
   </p>
   </p>
 </body>
