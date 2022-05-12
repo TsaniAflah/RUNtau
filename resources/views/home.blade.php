@@ -4,7 +4,7 @@
 
 @section('konten')
 
-<body background="./img/Landing.png" ;>
+<body background="./img/Landing.png" width="100%";>
   <!--Tagline-->
   <h1 style="text-align:center; font-family:arial; font-size:25px; color:#533E85">"𝕐𝕆𝕌ℝ 𝔽𝕀ℝ𝕊𝕋 ℂ𝕆𝕃𝕃𝔼𝔾𝔼 𝔽ℝ𝕀𝔼ℕ𝔻"</h1>
   <!--Membuat carousel-->
@@ -64,19 +64,19 @@
   <p>
   <p>
     @guest
-  <div style="background-image:url(./img/Landing2.png); height:400px; ">
+  <div style="background-image:url(./img/Landing2.png); height:400px; width:100%">
     <img src="/img/Person1.png" style="float:left; padding-left:110px" ; height="400" ;>
     <p style="padding-top: 250px;">
-      <a href="/about" style="padding:7px; text-align:center;" ;>
+      <a href="/register" style="padding:7px; text-align:center;" ;>
         <button style="background-color: white; color:black; padding:5px 15px 5px 15px;"><b>SignUp</b></button>
       </a>
-      <a href="/about" style="padding-left: 10 px; text-align:center;">
+      <a href="/login" style="padding-left: 10 px; text-align:center;">
         <button style="background-color: white; color:black; padding:5px 15px 5px 15px;"><b>Login</b></button>
       </a>
     </p>
   </div>
   @else
-  
+  <img src="/img/Registered.png" alt="">
   @endguest
   </p>
   </p>
