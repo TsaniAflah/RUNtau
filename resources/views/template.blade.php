@@ -19,14 +19,14 @@
 <!-- navigation bar -->
 
 <body>
-  <nav class="navbar navbar sticky-top navbar-expand-lg navbar-dark shadow" style="background-color: #3FA796; align-items:center" ;>
+  <nav class="navbar navbar sticky-top navbar-expand-lg navbar-dark shadow" style="background-color: #3FA796; align-items:center; width:100%;">
     <div class=" container-fluid" ;>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav mx-auto" style="font-size:20px">
-          <li class="nav-item" style="padding-left:160px" ;>
+          <li class="nav-item" style="padding-left:165px" ;>
             <b>
               <a class="nav-link active" href="/tampildata">ACTIVITY</a>
             </b>
@@ -46,7 +46,7 @@
           </li>
           <li class="nav-item">
             <b>
-              <a class="nav-link active" href="#"> ABOUT</a>
+              <a class="nav-link active" href="/about"> ABOUT</a>
             </b>
           </li>
         </ul>
@@ -73,10 +73,10 @@
           @else
           <br>
           <li class="nav-item">
-            <a href="/register" class="nav-link active"></i>SignUp</a>
+            <a href="/register" style="color:black" class="nav-link active"></i>SignUp</a>
           </li>
           <li class="nav-item">
-            <a href="/login" class="nav-link active"></i>Login</a>
+            <a href="/login" style="color:black" class="nav-link active"></i>Login</a>
           </li>
           @endauth
 

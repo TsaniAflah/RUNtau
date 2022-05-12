@@ -23,6 +23,10 @@ Route::get('/home', function () {
     return view('home');
 });
 
+Route::get('/about', function () {
+    return view('about');
+});
+
 Route::get('/template', function () {
     return view('template');
 });
@@ -57,7 +61,7 @@ Route::get('/runtaustore', function () {
 
 
 //Melakukan READ
-Route::get('/tampildata', 'ReservasiController@readdata');
+Route::get('/tampildata', 'ReservasiController@readdata')->middleware('auth');
 //Melakukan INPUT
 Route::get('/tambahdata', 'ReservasiController@input')->middleware('auth');
 //Melakukan STORING

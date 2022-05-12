@@ -42,8 +42,8 @@
     <h2>Add Activity</h2>
     <form action="/activity/store" method="post">
         {{csrf_field()}}
-        &nbsp; &nbsp; &nbsp;Course&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <input type=text, name="Course" , required="required">&nbsp; &nbsp; &nbsp;Time &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<input type=text, name="Time" , required="required"></br><br>
-        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Date&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <input type="date", name="Date" , required="required">&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Classroom &nbsp;&nbsp; &nbsp;<input type=text, name="Classroom" , required="required"></br><br>
+        &nbsp; &nbsp; &nbsp;Course&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <input type=text, name="Course" , required="required">&nbsp; &nbsp; &nbsp;Time &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <input type=text, name="Time" , required="required"></br><br>
+        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Date&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <input type="date", name="Date" , required="required">&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; Classroom &nbsp;&nbsp; &nbsp;<input type=text, name="Classroom" , required="required"></br><br>
         &nbsp; &nbsp; &nbsp; &nbsp;Lecturer&nbsp; &nbsp; &nbsp; <input type=text, name="Lecturer" , required="required"></br><br>
         <input type="submit" value="Save" style="background-color:#3FA796; color:white; padding:5px 10px 5px 10px">
     </form>
