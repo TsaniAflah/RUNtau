@@ -1,14 +1,6 @@
-## 𝐚𝐩𝐚 𝐢𝐭𝐮 <b><big>𝐓𝐈𝐊𝐄𝐓.𝐜𝐨𝐦?</big></b>
+## <b><big>𝐃𝐞𝐬𝐤𝐫𝐢𝐩𝐬𝐢 𝐏𝐫𝐨𝐣𝐞𝐜𝐭</big></b>
 <p align="center"><img width="50%" height="" src="./public/img/Logo.png"/></p>
-<p align="center">Ini adalah sebuah layanan terbaru bagi traveller yang mempermudah melakukan reservasi akomodasi favorit-mu!. TIKET.com merupakan sahabat yang akan membuatmu lupa akan ribetnya proses pemesanan tempat penginapan via online MAUPUN offline. Lihat juga tampilan aplikasi yang keren dan menarik yang semuanya akan anda temukan di TIKET.com solusi perjalanan anda!</p>
-<h4>𝐓𝐀𝐌𝐏𝐈𝐋𝐀𝐍</h4>
-<img width="80%" height="" src="./public/img/1r.png"/></a>
-<h4>𝐂𝐑𝐄𝐀𝐓𝐄</h4>
-<img width="80%" height="" src="./public/img/create.png"/></a>
-<h4>𝐑𝐄𝐀𝐃</h4>
-<img width="80%" height="" src="./public/img/read.png"/></a>
-<h4>𝐔𝐏𝐃𝐀𝐓𝐄 & 𝐃𝐄𝐋𝐄𝐓𝐄</h4>
-<img width="80%" height="" src="./public/img/update.png"/></a>
+<p align="center">RUNtau adalah sebuah website yang diciptakan untuk membantu para mahasiswa pendatang dari luar Banda Aceh baik dari luar kota maupun luar negeri, sehingga bahasa default yang digunakan adalah Bahasa Inggris. Perancangan web didesain semudah mungkin untuk digunakan, sehingga tidak menyulitkan dan jangkauan user lebih luas karena tidak memerlukan kemampuan menggunakan hardware yang tinggi. Pe-RUNtau friendly!</p>
 
 <h2>𝐅𝐫𝐞𝐪𝐮𝐞𝐧𝐭𝐥𝐲 𝐀𝐬𝐤𝐞𝐝 𝐐𝐮𝐞𝐬𝐭𝐢𝐨𝐧𝐬</h2>
 
@@ -16,32 +8,39 @@
 
 <summary>&nbsp;Apa saja fitur yang ditawarkan?</summary>
 <small>
-&nbsp;&nbsp;&nbsp;<img width="3%" src= https://img.icons8.com/emoji/48/000000/-emoji-admission.png> Melakukan reservasi dalam satu kali isi form </small>
+&nbsp;&nbsp;&nbsp;<img width="3%" src="/public/img/rm1.png"> Membantu membuat list mengenai rangkaian yang dilakukan pe-RUNtau </small>
 <small><br>
-&nbsp;&nbsp;&nbsp;<img width="3%" src= https://img.icons8.com/emoji/48/000000/pencil-emoji.png> Melakukan kesalahan? Tenang ada akses pengeditan reservasi</small></br>
+&nbsp;&nbsp;&nbsp;<img width="3%" src="/public/img/m2.jpg"> Menampilkan berita-berita revelan untuk pe-RUNtau dari universitas </small></br>
 <small>
-&nbsp;&nbsp;&nbsp;<img width="3%" src= https://img.icons8.com/external-flat-vinzence-studio/64/000000/external-bin-file-folder-flat-vinzence-studio.png> Menghapus reservasi yang telah dibuat</small></br>
+&nbsp;&nbsp;&nbsp;<img width="3%" src="/public/img/rm3.png"> Membantu pe-RUNtau untuk mendapatkan informasi mengenai lokasi makanan, money changer, hiburan, kesehatan, dan belanja</small></br>
 
 <small>
-&nbsp;&nbsp;&nbsp;<img width="3%" src= https://img.icons8.com/emoji/48/000000/magnifying-glass-tilted-right-emoji.png> Melihat data-data reservasi </small>
+&nbsp;&nbsp;&nbsp;<img width="3%" src="/public/img/rm4.png"> Menampilkan orang yang ada dibalik layar RUNtau </small>
 </details>
 <p>
 
 <details open>
-<summary>&nbsp;Dapat diakses dimana?</summary>
+<summary>&nbsp;Bagaimana cara mengakses web?</summary>
 <small>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sesuai namanya TIKET.com dapat dilihat di website TIKET.com dibrowser kesayangan anda. Dapat pula diakses di iOS maupun android.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pe-RUNtau diharuskan melakukan SignIn jika belum registrasi dengan email, jika sudah teregistrasi Pe-RUNtau dapat menikmati layanan RUNtau setelah melakukan Login.
 </small>
 </details>
 
+<h2>𝐕𝐢𝐝𝐞𝐨 𝐃𝐞𝐦𝐨</h2>
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/tgbNymZ7vqY">
+</iframe>
+
+
 ## 𝐀𝐛𝐨𝐮𝐭 
 Project dikerjakan oleh :
-|     NAMA  | NPM |
-| :---: | :---: |
-| Tsani Aflah |  2008107010015 |
+|     NAMA     |      NPM      |
+| :----------: | :-----------: |
+| Tsani Aflah  | 2008107010015 |
+| Hadafee Mudo | 2008107010101 |
 
 Link repository github :
-<p href="https://github.com/TsaniAflah/Tiket.com" target="_blank"> <img width="10%" src="https://img.icons8.com/ultraviolet/40/000000/parallel-tasks.png"/></a>
+<p href="https://github.com/TsaniAflah/RUNtau" target="_blank"> <img width="10%" src="/public/img/rm5.png"/></a>
 
 ## 𝐋𝐢𝐜𝐞𝐧𝐬𝐞
 
