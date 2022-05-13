@@ -10,7 +10,7 @@
 <small>
 &nbsp;&nbsp;&nbsp;<img width="3%" src="/public/img/rm1.png"> Membantu membuat list mengenai rangkaian yang dilakukan pe-RUNtau </small>
 <small><br>
-&nbsp;&nbsp;&nbsp;<img width="3%" src="/public/img/m2.jpg"> Menampilkan berita-berita revelan untuk pe-RUNtau dari universitas </small></br>
+&nbsp;&nbsp;&nbsp;<img width="3%" src="/public/img/rm2.jpg"> Menampilkan berita-berita revelan untuk pe-RUNtau dari universitas </small></br>
 <small>
 &nbsp;&nbsp;&nbsp;<img width="3%" src="/public/img/rm3.png"> Membantu pe-RUNtau untuk mendapatkan informasi mengenai lokasi makanan, money changer, hiburan, kesehatan, dan belanja</small></br>
 
@@ -27,9 +27,6 @@
 </details>
 
 <h2>𝐕𝐢𝐝𝐞𝐨 𝐃𝐞𝐦𝐨</h2>
-<iframe width="420" height="315"
-src="https://www.youtube.com/embed/tgbNymZ7vqY">
-</iframe>
 
 
 ## 𝐀𝐛𝐨𝐮𝐭 
