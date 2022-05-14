@@ -76,7 +76,7 @@
     </p>
   </div>
   @else
-  <img src="/img/Registered.png" alt="">
+  <img src="/img/Registered.png" width="100%">
   @endguest
   </p>
   </p>
