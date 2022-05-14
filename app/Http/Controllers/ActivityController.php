@@ -27,6 +27,7 @@ class ActivityController extends Controller
         DB::table('activity')->insert([
             'Course' => $request->Course,
             'Time' => $request->Time,
+            'Date' => $request->Date,
             'Classroom' => $request->Classroom,
             'Lecturer' => $request->Lecturer
         ]);
@@ -47,6 +48,7 @@ class ActivityController extends Controller
         DB::table('activity')->where('Course', $request->Course)->update([
             'Course' => $request->Course,
             'Time' => $request->Time,
+            'Date' => $request->Date,
             'Classroom' => $request->Classroom,
             'Lecturer' => $request->Lecturer
         ]);

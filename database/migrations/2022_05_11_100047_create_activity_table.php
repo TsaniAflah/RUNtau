@@ -14,7 +14,7 @@ class CreateActivityTable extends Migration
     public function up()
     {
         Schema::create('activity', function (Blueprint $table) {
-            $table->string('Course')->unique();
+            $table->string('Course');
             $table->string('Time');
             $table->date('Date');
             $table->string('Classroom');

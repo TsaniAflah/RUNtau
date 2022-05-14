@@ -4,7 +4,7 @@
 @section('konten')
 @foreach($activity as $act)
 
-<body background="./img/About.png" ;>
+<body background="/img/About.png" ;>
     <br>
     <br>
     <form action="/activity/update" method="post"; >
