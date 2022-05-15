@@ -61,17 +61,17 @@ Route::get('/runtaustore', function () {
 
 
 //Melakukan READ
-Route::get('/tampildata', 'ReservasiController@readdata')->middleware('auth');
+Route::get('/tampildata', 'ActivityController@readdata')->middleware('auth');
 //Melakukan INPUT
-Route::get('/tambahdata', 'ReservasiController@input')->middleware('auth');
+Route::get('/tambahdata', 'ActivityController@input')->middleware('auth');
 //Melakukan STORING
-Route::post('/activity/store', 'ReservasiController@store');
+Route::post('/activity/store', 'ActivityController@store');
 //Melakukan EDIT
-Route::get('/activity/edit/{Course}', 'ReservasiController@edit')->middleware('auth');
+Route::get('/activity/edit/{Course}', 'ActivityController@edit')->middleware('auth');
 //Melakukan UPDATE
-Route::post('/activity/update', 'ReservasiController@update');
+Route::post('/activity/update', 'ActivityController@update');
 //Melakukan DELETE
-Route::get('/activity/hapus/{Course}', 'ReservasiController@hapus')->middleware('auth');
+Route::get('/activity/hapus/{Course}', 'ActivityController@hapus')->middleware('auth');
 
 Route::get('/login', 'LoginController@index')->name('login')->middleware('guest');
 Route::post('/login', 'LoginController@authenticate');

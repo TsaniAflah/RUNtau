@@ -5,7 +5,7 @@ namespace App\Http\Controllers;
 use Illuminate\Support\Facades\DB;
 use Illuminate\Http\Request;
 
-class ReservasiController extends Controller
+class ActivityController extends Controller
 {
     public function readdata()
     {
@@ -13,7 +13,7 @@ class ReservasiController extends Controller
         $activity = DB::table('activity')->get();
 
         // mengirim ke alamat reservasi untuk ditampilkan data
-        return view('datareservasi', ['activity' => $activity]);
+        return view('activity', ['activity' => $activity]);
     }
 
     public function input()
