@@ -1,7 +1,8 @@
 <body style="background:linear-gradient(20deg, #33CCFF, #9966FF); padding-left: 70px; padding-right:70px">
-
+    <br>
+    <br>
     <a href="/help" class="btn btn-default" style="color:white; padding:50px">
-        <big><strong>✖</strong></big>
+        <img src="/img/back.png" />
     </a>
     <center><img src="/img/22.png" width="400" ; style="padding-top: 0px;"> </center>
 
@@ -14,7 +15,7 @@
             &nbsp &nbsp 𝙷𝚘𝚞𝚛𝚜: <br>
             &nbsp &nbsp 𝟶𝟿.𝟶𝟶-𝟷𝟾.𝟶𝟶 𝚆𝙸𝙱 <br>
             &nbsp &nbsp 𝙿𝚑𝚘𝚗𝚎: (𝟶𝟼𝟻𝟷) 𝟼𝟹𝟼𝟷𝟻𝟿 <br>
-            &nbsp &nbsp 𝙿𝚑𝚘𝚗𝚎: 𝙿𝚛𝚘𝚟𝚒𝚗𝚌𝚎: 𝙰𝚌𝚎𝚑 <br> 
+            &nbsp &nbsp 𝙿𝚑𝚘𝚗𝚎: 𝙿𝚛𝚘𝚟𝚒𝚗𝚌𝚎: 𝙰𝚌𝚎𝚑 <br>
             &nbsp &nbsp<a href="https://www.google.com/maps/place/Money+Changer+-+Tour/@5.5576743,95.3283591,17z/data=!3m1!4b1!4m5!3m4!1s0x30403741dc34684f:0xd29cdd7aa2db2ad8!8m2!3d5.5576686!4d95.3305413">𝙎𝙀𝙀 𝙊𝙉 𝙏𝙃𝙀 𝙈𝘼𝙋 📍</a>
             <br>
         </div>
@@ -31,7 +32,7 @@
             &nbsp &nbsp 𝙷𝚘𝚞𝚛𝚜:<br>
             &nbsp &nbsp 𝟶𝟿.𝟶𝟶-𝟸𝟷.𝟶𝟶 𝚆𝙸𝙱 <br>
             &nbsp &nbsp 𝙿𝚑𝚘𝚗𝚎: (𝟶𝟼𝟻𝟷) 𝟸𝟹𝟹𝟹𝟼<br>
-            &nbsp &nbsp 𝙿𝚛𝚘𝚟𝚒𝚗𝚌𝚎: 𝙰𝚌𝚎𝚑 <br> 
+            &nbsp &nbsp 𝙿𝚛𝚘𝚟𝚒𝚗𝚌𝚎: 𝙰𝚌𝚎𝚑 <br>
             &nbsp &nbsp<a href="https://www.google.com/maps/place/PT+Kutaraja+Money+Changer/@5.5614733,95.3187455,17z/data=!3m1!4b1!4m5!3m4!1s0x3040374db75d90bd:0xf7a398e513849a88!8m2!3d5.5614668!4d95.3209142">𝙎𝙀𝙀 𝙊𝙉 𝙏𝙃𝙀 𝙈𝘼𝙋 📍</a>
             <br>
         </div>
@@ -52,5 +53,5 @@
         </div>
     </div>
     </p>
-    
+
 </body>
