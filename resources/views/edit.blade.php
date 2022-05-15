@@ -4,10 +4,7 @@
 @section('konten')
 @foreach($activity as $act)
 
-<<<<<<< HEAD
 <body background="https://wallpaperset.com/w/full/1/b/9/7685.jpg" ;>
-=======
->>>>>>> main
     <br>
     <br>
     <form action="/activity/update" method="post"; >
