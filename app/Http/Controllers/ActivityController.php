@@ -9,16 +9,17 @@ class ActivityController extends Controller
 {
     public function readdata()
     {
-        // ambil data dari table reservasi
+        // ambil data dari table activity
         $activity = DB::table('activity')->get();
 
-        // mengirim ke alamat reservasi untuk ditampilkan data
+        // mengirim ke file activity untuk ditampilkan data
         return view('activity', ['activity' => $activity]);
     }
 
+    //untuk mengirim data dari file activity
     public function input()
     {
-        return view('inputdata');
+        return view('activity');
     }
 
     public function store(Request $request)
@@ -37,7 +38,7 @@ class ActivityController extends Controller
 
     public function edit($course)
     {
-        #ambil data reservasi dari nama
+        #ambil data ativity dari Course
         $activity = DB::table('activity')->where('Course', $course)->get();
         #passing data
         return view('edit', ['activity' => $activity]);

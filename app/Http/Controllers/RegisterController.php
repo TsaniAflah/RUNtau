@@ -9,13 +9,14 @@ use Illuminate\Support\Facades\Hash;
 
 class RegisterController extends Controller
 {
-     
+     //untuk mengirim data yang ada didalam file register 
     public function index()
     {
         return view('register.index',[
             'title'=>'Register']);
     }
 
+    //untuk menentu aturan dalam form register dan memasukkan data ke table users didalam database
     public function store(Request $request)
     {
         $request->validate ([

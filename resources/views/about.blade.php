@@ -3,6 +3,7 @@
 
 @section('konten')
 <body background="https://wallpaperset.com/w/full/1/b/9/7685.jpg" ;>
+     
      <img src="/img/About2.png" width="100%" ;>
 
 

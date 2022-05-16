@@ -9,6 +9,7 @@ use Illuminate\Support\Facades\DB;
 
 class LoginController extends Controller
 {
+    //untuk mengirim data dari file login
     public function index()
     {
         return view('login.index', [
@@ -16,23 +17,13 @@ class LoginController extends Controller
         ]);
     }
 
-
+    //untuk menentukan aturan dalam form login dan mengecek isinya benar atau salah 
     public function authenticate(Request $request)
-    {
+    { 
         $credentials = $request->validate([
             'email' => ['required', 'email:dns'],
             'password' => ['required'],
         ]);
-
-        $email = $request ->email;
-        $password = $request ->password;
-
-        $remember = $request->has('remember')? true:false;
-        if(auth()->attempt(['email'=>$email,'password'=>$password],$remember)){
-             $user =auth()->user();
-            //return dd($user);
-
-        }
 
         if (Auth::attempt($credentials)) {
             $request->session()->regenerate();
@@ -46,7 +37,7 @@ class LoginController extends Controller
         return back()->with('invalidlogin', 'Invalid email or password');
     }
 
-
+    //untuk keluar akun
     public function logout(Request $request)
     {
         Auth::logout();
