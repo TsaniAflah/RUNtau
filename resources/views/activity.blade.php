@@ -7,7 +7,7 @@
 
     <!------ Include the above in your HEAD tag ---------->
     <div class="container">
-        <h2> Today Activity </h2>
+        <h2> My Activity </h2>
         <div class="row">
             <div class="table-responsive">
                 <table id="mytable" class="table table-bordred table-striped">

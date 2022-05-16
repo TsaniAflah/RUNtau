@@ -1,7 +1,8 @@
 <body style="background:linear-gradient(20deg, #33CCFF, #9966FF); padding-left: 70px; padding-right:70px">
-
+    <br>
+    <br>
     <a href="/help" class="btn btn-default" style="color:white; padding:50px">
-        <big><strong>✖</strong></big>
+        <img src="/img/back.png" />
     </a>
     <center><img src="/img/55.png" width="400" ; style="padding-top: 0px;"> </center>
 
@@ -29,8 +30,9 @@
             &nbsp &nbsp 𝙷𝚘𝚞𝚛𝚜: 𝟶𝟿.𝟶𝟶-𝟸𝟸.𝟶𝟶 𝚆𝙸𝙱<br>
             &nbsp &nbsp 𝙿𝚑𝚘𝚗𝚎: (𝟶𝟼𝟻𝟷) 𝟼𝟹𝟼𝟼𝟼𝟷<br> <br>
             <p>
-            &nbsp &nbsp<a href="https://www.google.com/maps/place/Matahari+Department+Store+%7C+Plaza+Aceh+Mall/@5.5545585,95.3289106,17z/data=!3m1!4b1!4m5!3m4!1s0x304039b63fffffaf:0xd1401e47fe4c0b67!8m2!3d5.5545532!4d95.3310993">𝙎𝙀𝙀 𝙊𝙉 𝙏𝙃𝙀 𝙈𝘼𝙋 📍</a>
-            <br></p>
+                &nbsp &nbsp<a href="https://www.google.com/maps/place/Matahari+Department+Store+%7C+Plaza+Aceh+Mall/@5.5545585,95.3289106,17z/data=!3m1!4b1!4m5!3m4!1s0x304039b63fffffaf:0xd1401e47fe4c0b67!8m2!3d5.5545532!4d95.3310993">𝙎𝙀𝙀 𝙊𝙉 𝙏𝙃𝙀 𝙈𝘼𝙋 📍</a>
+                <br>
+            </p>
         </div>
     </div>
     <p>
@@ -42,8 +44,9 @@
             <strong>&nbsp &nbsp 𝐀𝐥𝐟𝐚𝐦𝐚𝐫𝐭 𝐓. 𝐍𝐲𝐚𝐤 𝐀𝐫𝐢𝐟</strong>
             <br>&nbsp &nbsp 𝙰𝚍𝚍𝚛𝚎𝚜𝚜: 𝙷𝟿𝙷𝟸+𝙼𝚁𝟻, 𝙻𝚊𝚖𝚐𝚞𝚐𝚘𝚋, 𝚂𝚢𝚒𝚊𝚑 𝙺𝚞𝚊𝚕𝚊, 𝙱𝚊𝚗𝚍𝚊 𝙰𝚌𝚎𝚑 𝙲𝚒𝚝𝚢, 𝙰𝚌𝚎𝚑<br><br> <br>
             <p>
-            &nbsp &nbsp<a href="https://www.google.com/maps/place/Alfamart+%7C+T.+Nyak+Arif/@5.5791351,95.3499173,17z/data=!3m1!4b1!4m5!3m4!1s0x30403789212d15d1:0xe6d44ecbdfb110cd!8m2!3d5.5791015!4d95.3521276">𝙎𝙀𝙀 𝙊𝙉 𝙏𝙃𝙀 𝙈𝘼𝙋 📍</a>
-            <br></p>
+                &nbsp &nbsp<a href="https://www.google.com/maps/place/Alfamart+%7C+T.+Nyak+Arif/@5.5791351,95.3499173,17z/data=!3m1!4b1!4m5!3m4!1s0x30403789212d15d1:0xe6d44ecbdfb110cd!8m2!3d5.5791015!4d95.3521276">𝙎𝙀𝙀 𝙊𝙉 𝙏𝙃𝙀 𝙈𝘼𝙋 📍</a>
+                <br>
+            </p>
         </div>
     </div>
     </p>
