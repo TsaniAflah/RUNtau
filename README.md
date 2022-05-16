@@ -27,7 +27,7 @@
 </details>
 
 <h2>𝐕𝐢𝐝𝐞𝐨 𝐃𝐞𝐦𝐨</h2>
-
+<p href="https://youtu.be/tzSNGznyC3I" target="_blank"> <img width="10%" src="/public/img/rm6.png"/></a>
 
 ## 𝐀𝐛𝐨𝐮𝐭 
 Project dikerjakan oleh :
