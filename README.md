@@ -27,7 +27,7 @@
 </details>
 
 <h2>𝐕𝐢𝐝𝐞𝐨 𝐃𝐞𝐦𝐨</h2>
-<p href="https://youtu.be/tzSNGznyC3I" target="_blank"> <img width="10%" src="/public/img/rm6.png"/></a>
+<p href="https://youtu.be/tzSNGznyC3I" target="_blank">
 
 ## 𝐀𝐛𝐨𝐮𝐭 
 Project dikerjakan oleh :
@@ -37,7 +37,7 @@ Project dikerjakan oleh :
 | Hadafee Mudo | 2008107010101 |
 
 Link repository github :
-<p href="https://github.com/TsaniAflah/RUNtau" target="_blank"> <img width="10%" src="/public/img/rm5.png"/></a>
+<p href="https://github.com/TsaniAflah/RUNtau" target="_blank">
 
 
 ## 𝐋𝐢𝐜𝐞𝐧𝐬𝐞
